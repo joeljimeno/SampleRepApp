@@ -11,5 +11,5 @@
     <title>$Title$</title>
   </head>
   <body>Sample Rep App</body>
-<p>Repository Sample</p>
+<p>Repository Sample  Version 2</p>
 </html>
